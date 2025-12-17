@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="FileName1.cpp">
+    <ClCompile Include="nbc_thirdassign.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

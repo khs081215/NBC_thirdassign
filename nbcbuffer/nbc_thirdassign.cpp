@@ -139,7 +139,7 @@ int main()
     intInventory.AddItem(5);
     intInventory.AddItem(3);
     cout << "Int인벤토리에 5, 3 정수 추가\n";
-    cout << "Int인벤토리 "<<intInventory.GetCapacity() << " 용량  " << intInventory.GetSize() << " 사이즈" << endl;
+    cout << "Int인벤토리 "<<intInventory.GetCapacity() << " 용량  " << intInventory.GetSize() << " 사이즈\n" << endl;
 
 
     cout << "빈 인벤토리 출력\n";
